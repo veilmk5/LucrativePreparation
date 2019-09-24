@@ -1,0 +1,7 @@
+D:\Interview\LucrativePreparation\WealthBringer\WealthBringer\bin\Debug\WealthBringer.exe.config
+D:\Interview\LucrativePreparation\WealthBringer\WealthBringer\bin\Debug\WealthBringer.exe
+D:\Interview\LucrativePreparation\WealthBringer\WealthBringer\bin\Debug\WealthBringer.pdb
+D:\Interview\LucrativePreparation\WealthBringer\WealthBringer\obj\Debug\WealthBringer.csprojAssemblyReference.cache
+D:\Interview\LucrativePreparation\WealthBringer\WealthBringer\obj\Debug\WealthBringer.csproj.CoreCompileInputs.cache
+D:\Interview\LucrativePreparation\WealthBringer\WealthBringer\obj\Debug\WealthBringer.exe
+D:\Interview\LucrativePreparation\WealthBringer\WealthBringer\obj\Debug\WealthBringer.pdb
